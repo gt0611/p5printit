@@ -23,7 +23,7 @@ let tagLine = document.querySelector("p");
 let taglineSpan = document.querySelector("span");
 let index = 0;
 // Recupère ma div des fleches
-let maDivArrow = document.querySelectorAll(".arrow img");
+let maDivArrow = document.querySelectorAll(".arrow");
 
 // boucle de la div arrow
 for (let i = 0; i < maDivArrow.length; i++) {
